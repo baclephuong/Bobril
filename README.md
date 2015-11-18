@@ -10,7 +10,7 @@ Component oriented framework inspired by ReactJs (Virtual DOM, components with s
 Easy automatic generation of code and its speed has higher priority over simplicity. Basically Bobril has most interesting features from ReactJs plus is faster, more complete, smaller, more polyfills for IE9. Isomorphic JavaScript is not implemented because it would increase size and is not needed for SEO anyway (Google bot supports JavaScript).
 Because it is already used in Production code, further development must not broke any functionality. Any new feature must be optional or its perceived value to minified size ratio must be high enough.
 
-If you need compatibility with IE8 look at 2.x branch.
+If you need compatibility with IE8 look at 2.x branch. 
 
 Examples: http://bobris.github.io/Bobril/
 
